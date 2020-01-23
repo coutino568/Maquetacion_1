@@ -1,7 +1,0 @@
-h1 {
-	color: tomato;
-	size: 50px;
-}
-h1 :hover{
-	transform: scale(5.0);
-}
